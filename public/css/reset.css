@@ -1,1 +1,5 @@
-/* @perla-lopez iss53: Inicializa el margin, padding y border a 0 de todos los elemnetos HTML */
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
