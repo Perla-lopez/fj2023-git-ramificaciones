@@ -1,0 +1,6 @@
+/* Barra de navegación */
+nav {
+    background-color: coral;
+    padding: 5px;
+    display: flex;
+}
